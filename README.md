@@ -1,5 +1,5 @@
 # guac-install
-Script for installing Guacamole 0.9.12 on Ubuntu 16.04 with MySQL
+Script for installing Guacamole 0.9.12 on Ubuntu Mate for Raspberry with MySQL
 
 Run script, enter MySQL Root Password and Guacamole User password. Guacamole User is used to connect the the Guacamole Database.
 
